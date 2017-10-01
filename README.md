@@ -1,3 +1,3 @@
 # Hamcrest
 
-Contains Hamcrest Core matchers examples.
+Contains Hamcrest Core, Beans, Number, text matchers examples.
